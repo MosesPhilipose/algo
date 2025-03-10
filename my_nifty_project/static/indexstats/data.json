@@ -1,0 +1,45 @@
+{
+    "Data Generated On": "Generated on: 12:13 PM, at February 18, 2025",
+    "Tickers": [
+        {
+            "Symbol": "NIFTY50",
+            "Opening Scenario": "flat open",
+            "Trend Observed": "down trend",
+            "Upward Close": "0.67",
+            "Downward Close": "37.77",
+            "Flat Close": "61.55"
+        },
+        {
+            "Symbol": "SENSEX",
+            "Opening Scenario": "flat open",
+            "Trend Observed": "down trend",
+            "Upward Close": "0.47",
+            "Downward Close": "39.66",
+            "Flat Close": "59.87"
+        },
+        {
+            "Symbol": "BANK_NIFTY",
+            "Opening Scenario": "flat open",
+            "Trend Observed": "indecisive",
+            "Upward Close": "32.11",
+            "Downward Close": "22.86",
+            "Flat Close": "45.03"
+        },
+        {
+            "Symbol": "GOLD",
+            "Opening Scenario": "flat open",
+            "Trend Observed": "indecisive",
+            "Upward Close": "22.11",
+            "Downward Close": "14.87",
+            "Flat Close": "63.02"
+        },
+        {
+            "Symbol": "SILVER",
+            "Opening Scenario": "flat open",
+            "Trend Observed": "indecisive",
+            "Upward Close": "19.77",
+            "Downward Close": "21.46",
+            "Flat Close": "58.78"
+        }
+    ]
+}
