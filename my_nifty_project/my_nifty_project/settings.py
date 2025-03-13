@@ -16,7 +16,7 @@ INSTALLED_APPS = [
     "django.contrib.sessions",
     "django.contrib.messages",
     "django.contrib.staticfiles",
-    "indexstats",  # Add the indexstats app to the list of installed apps
+    "my_nifty_project.indexstats",  # Add the indexstats app to the list of installed apps
 ]
 
 MIDDLEWARE = [
