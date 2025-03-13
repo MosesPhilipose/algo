@@ -7,7 +7,7 @@ SECRET_KEY = "django-insecure-eoykog69%wqwfe0#v-*v!j=^@yi2we41ydsnv$31l9sl9=4l1^
 
 DEBUG = True
 
-ALLOWED_HOSTS = ['algo-6jm2.onrender.com']
+ALLOWED_HOSTS = ['algo-m3d3.onrender.com']
 
 INSTALLED_APPS = [
     "django.contrib.admin",
